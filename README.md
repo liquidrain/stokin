@@ -1,13 +1,13 @@
 # @liquidrain/stokin
 
-[![npm (scoped)](https://img.shields.io/npm/v/@liquidrain/stokin.svg)](https://www.npmjs.com/package/@liquidrain/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@liquidrain/stokin.svg)](https://www.npmjs.com/package/stokin)
 
-Removes all spaces from a string.
+Adds GSAP custom animation.
 
 ## Install
 
 ```
-$ npm install @liquidrain/stokin
+$ npm install stokin
 ```
 
 ## Usage
